@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-## Senior Data Engineer @ Giorgio Armani S.p.A.
+## Data Engineering Lead @ Giorgio Armani S.p.A.
 
 Technology has always been more than just a job for me. It’s a passion that drives me every day.
 As a Computer Engineer, I love designing and building systems that are efficient and scalable but also truly aligned with business needs.
